@@ -8,7 +8,7 @@
 
 ## WPROWADZENIE
 
-The term social in regard to media suggests platforms enable communal activity. Social media can enhance and extend human networks. Users access social media through web-based apps or custom apps on mobile devices. These interactive platforms allow individuals, communities, and organizations to share, co-create, discuss, participate in, and modify user-generated or self-curated content. Social media is used to document memories, learn, and form friendships. They may be used to promote people, companies, products, and ideas.[8] Social media can be used to consume, publish, or share news.
+The term social in regard to media suggests platforms enable communal activity. Social media can enhance and extend human networks. Users access social media through web-based apps or custom apps on mobile devices. These interactive platforms allow individuals, communities, and organizations to share, co-create, discuss, participate in, and modify user-generated or self-curated content. Social media is used to document memories, learn, and form friendships. They may be used to promote people, companies, products, and ideas. Social media can be used to consume, publish, or share news.
 
 Popular social media platforms with over 100 million registered users include Twitter, Facebook, WeChat, ShareChat, Instagram, Pinterest, QZone, Weibo, VK, Tumblr, Baidu Tieba, Threads and LinkedIn. Depending on interpretation, other popular platforms that are sometimes referred to as social media services include YouTube, Letterboxd, QQ, Quora, Telegram, WhatsApp, Signal, LINE, Snapchat, Viber, Reddit, Discord, and TikTok. Wikis are examples of collaborative content creation.
 
