@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<socialmedia>
+    <facebook
+        origin="United States"
+        created="2004"
+    >
+        <useramount>200M+</useramount>
+        <dominantcolor>Blue</dominantcolor>
+        <owner>Meta</owner>
+        <mediaform>Posts</mediaform>
+    </facebook>
+
+    <instagram
+        origin="United States"
+        created="2010"
+    >
+        <useramount>20M+</useramount>
+        <dominantcolor>Pink, Orange</dominantcolor>
+        <owner>Meta</owner>
+        <mediaform>Posts, Shorts (reels)</mediaform>
+    </instagram>
+
+    <threads
+        origin="United States"
+        created="2023"
+    >
+        <useramount>500k+</useramount>
+        <dominantcolor>Black</dominantcolor>
+        <owner>Meta</owner>
+        <mediaform>Posts</mediaform>
+    </threads>
+
+    <tiktok
+        origin="China"
+        created="2016"
+    >
+        <useramount>100M+</useramount>
+        <dominantcolor>Black, Pink</dominantcolor>
+        <owner>TikTok company</owner>
+        <mediaform>Shorts</mediaform>
+    </tiktok>
+
+    <twitterx
+        origin="United States"
+        created="2006"
+    >
+        <useramount>150M+</useramount>
+        <dominantcolor>Blue</dominantcolor>
+        <owner>X (twitter) media group</owner>
+        <mediaform>Posts</mediaform>
+    </twitterx>
+
+    <snapchat
+        origin="United States"
+        created="2011"
+    >
+        <useramount>10M+</useramount>
+        <dominantcolor>Yellow</dominantcolor>
+        <owner>Snapchat media group</owner>
+        <mediaform>Stories</mediaform>
+    </snapchat>
+
+</socialmedia>
