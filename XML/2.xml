@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<socialmedia>
+    <facebook>
+        <useramount>200M+</useramount>
+        <dominantcolor>Blue</dominantcolor>
+        <owner>Meta</owner>
+        <mediaform>Posts</mediaform>
+    </facebook>
+
+    <instagram>
+        <useramount>20M+</useramount>
+        <dominantcolor>Pink, Orange</dominantcolor>
+        <owner>Meta</owner>
+        <mediaform>Posts, Shorts (reels)</mediaform>
+    </instagram>
+
+    <threads>
+        <useramount>500k+</useramount>
+        <dominantcolor>Black</dominantcolor>
+        <owner>Meta</owner>
+        <mediaform>Posts</mediaform>
+    </threads>
+
+    <tiktok>
+        <useramount>100M+</useramount>
+        <dominantcolor>Black, Pink</dominantcolor>
+        <owner>TikTok company</owner>
+        <mediaform>Shorts</mediaform>
+    </tiktok>
+
+    <twitterx>
+        <useramount>150M+</useramount>
+        <dominantcolor>Blue</dominantcolor>
+        <owner>X (twitter) media group</owner>
+        <mediaform>Posts</mediaform>
+    </twitterx>
+
+    <snapchat>
+        <useramount>10M+</useramount>
+        <dominantcolor>Yellow</dominantcolor>
+        <owner>Snapchat media group</owner>
+        <mediaform>Stories</mediaform>
+    </snapchat>
+
+</socialmedia>
