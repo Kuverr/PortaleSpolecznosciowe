@@ -1,63 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <socialmedia>
-    <facebook
-        origin="United States"
-        created="2004"
-    >
-        <useramount>200M+</useramount>
-        <dominantcolor>Blue</dominantcolor>
-        <owner>Meta</owner>
-        <mediaform>Posts</mediaform>
+    <facebook>
+        <useramount
+            full="200000000+"
+            short="0.2B+"
+        >200M+</useramount>
+        <dominantcolor
+            secondary="Gray"
+            tertiary="White"
+        >Blue</dominantcolor>
+        <owner
+            ceo="Mark Zuckerberg"
+            from="US"
+        >Meta</owner>
+        <mediaform
+            interactions="Likes"
+            chatAvailable="True"
+        >Posts</mediaform>
     </facebook>
 
-    <instagram
-        origin="United States"
-        created="2010"
-    >
-        <useramount>20M+</useramount>
-        <dominantcolor>Pink, Orange</dominantcolor>
-        <owner>Meta</owner>
-        <mediaform>Posts, Shorts (reels)</mediaform>
+    <instagram>
+        <useramount
+            full="20000000+"
+            short="0.02B+"
+        >20M+</useramount>
+        <dominantcolor
+            secondary="Orange"
+            tertiary="Yellow"
+        >Pink</dominantcolor>
+        <owner
+            ceo="Mark Zuckerberg"
+            from="US"
+        >Meta</owner>
+        <mediaform
+            interactions="Likes"
+            chatAvailable="True"
+        >Posts, Shorts (reels)</mediaform>
     </instagram>
 
-    <threads
-        origin="United States"
-        created="2023"
-    >
-        <useramount>500k+</useramount>
-        <dominantcolor>Black</dominantcolor>
-        <owner>Meta</owner>
-        <mediaform>Posts</mediaform>
+    <threads>
+        <useramount
+            full="500000+"
+            short="0.5M+"
+        >500k+</useramount>
+        <dominantcolor
+            secondary="White"
+            tertiary="Gray"
+        >Black</dominantcolor>
+        <owner
+            ceo="Mark Zuckerberg"
+            from="US"
+        >Meta</owner>
+        <mediaform
+            interactions="Likes"
+            chatAvailable="True"
+        >Posts</mediaform>
     </threads>
 
-    <tiktok
-        origin="China"
-        created="2016"
-    >
-        <useramount>100M+</useramount>
-        <dominantcolor>Black, Pink</dominantcolor>
-        <owner>TikTok company</owner>
-        <mediaform>Shorts</mediaform>
+    <tiktok>
+        <useramount
+            full="100000000+"
+            short="0.1B+"
+        >100M+</useramount>
+        <dominantcolor
+            secondary="Pink"
+            tertiary="Blue"
+        >Black</dominantcolor>
+        <owner
+            ceo="Shou Zi Chew"
+            from="Singapore"
+        >TikTok company</owner>
+        <mediaform
+            interactions="Likes"
+            chatAvailable="True"
+        >Shorts</mediaform>
     </tiktok>
 
-    <twitterx
-        origin="United States"
-        created="2006"
-    >
-        <useramount>150M+</useramount>
-        <dominantcolor>Blue</dominantcolor>
-        <owner>X (twitter) media group</owner>
+    <twitterx>
+        <useramount
+            full="150000000+"
+            short="0.15B+"
+        >150M+</useramount>
+        <dominantcolor
+            secondary="Gray"
+            tertiary="White"
+        >Blue</dominantcolor>
+        <owner
+            ceo="Elon Musk"
+            from="US"
+        >X (twitter) media group</owner>
         <mediaform>Posts</mediaform>
     </twitterx>
 
-    <snapchat
-        origin="United States"
-        created="2011"
-    >
-        <useramount>10M+</useramount>
-        <dominantcolor>Yellow</dominantcolor>
-        <owner>Snapchat media group</owner>
-        <mediaform>Stories</mediaform>
+    <snapchat>
+        <useramount
+            full="10000000+"
+            short="0.01B+"
+        >10M+</useramount>
+        <dominantcolor
+            secondary="White"
+            tertiary="Black"
+        >Yellow</dominantcolor>
+        <owner
+            ceo="Mark Zuckerberg"
+            from="US"
+        >Snapchat media group</owner>
+        <mediaform
+            interactions="Likes"
+            chatAvailable="True"
+        >Stories</mediaform>
     </snapchat>
 
 </socialmedia>
