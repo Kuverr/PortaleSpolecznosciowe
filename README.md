@@ -21,3 +21,4 @@ In a table below you will find statistics on 3 social media platforms: Instagram
 
 ![social media](https://www.big-red-digital.com/images/blogimages/social-media-networks.jpg)
 ![social media  in phone](https://framerusercontent.com/images/WMCJsIXhSvyuLrX7A3HUd6UhCDM.png)
+![social_media_AI](IMG/AI in Social Media.jpg)
