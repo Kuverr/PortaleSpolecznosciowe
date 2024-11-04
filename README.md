@@ -1,5 +1,11 @@
 # Portale Spolecznosciowe
 
+## TEAM
+
+1. Kuba Baran - Kuverr - task 2, 3
+1. Ignacy Dudziak - Igusilla - task 1, 6
+1. Krzysztof Kurlit - scoutwer - task 4, 5
+
 ## WPROWADZENIE
 
 The term social in regard to media suggests platforms enable communal activity. Social media can enhance and extend human networks. Users access social media through web-based apps or custom apps on mobile devices. These interactive platforms allow individuals, communities, and organizations to share, co-create, discuss, participate in, and modify user-generated or self-curated content. Social media is used to document memories, learn, and form friendships. They may be used to promote people, companies, products, and ideas.[8] Social media can be used to consume, publish, or share news.
